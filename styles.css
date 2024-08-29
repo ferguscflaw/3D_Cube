@@ -1,5 +1,4 @@
 .face {
-  margin-top: 500px;
   position: absolute;
   width: 200px;
   height: 200px;
@@ -17,4 +16,8 @@
   width: 100%;
   height: 28.5%;
   border: 5px solid;
+}
+
+#cube {
+  margin-top: 500px;
 }
